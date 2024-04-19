@@ -1,7 +1,7 @@
 altgraph==0.17.2
 asgiref==3.8.1
 Django==4.2.11
-future==0.182
+future==0.18.2
 macholib==1.15.2
 psycopg==3.1.18
 psycopg-binary==3.1.18
